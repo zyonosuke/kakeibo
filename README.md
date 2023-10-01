@@ -1,8 +1,8 @@
 # FuelPHP
 
 * Version: 1.9 [under development]
-* [Website](https://fuelphp.com/)
-* [Release Documentation](https://fuelphp.com/docs)
+* [Website](https://*.com/)
+* [Release Documentation](https://*.com/docs)
 * [Release API browser](https://fuelphp.com/api)
 * [Development branch Documentation](https://fuelphp.com/dev-docs)
 * [Development branch API browser](https://fuelphp.com/dev-api)
@@ -52,3 +52,6 @@ You can not apply for membership. Start by sending in pull-requests, work on out
 家計簿画面で追加した入出金がカレンダーに表示される
 グループを作るで同じグループ名を入力したユーザーの支出金と予定が追加されたカレンダーを見れる
 コメントから同じグループ内でチャットができる
+
+*開発
+https://docs.google.com/spreadsheets/d/1hc7TSCetK6zVV8FYdqUkgtEJX4BbXRn1QyRWswbE8FM/edit?usp=sharing
